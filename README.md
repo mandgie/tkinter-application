@@ -42,3 +42,6 @@ btn.grid(column=2, row=0)
 # Ending with the mainloop so the window is always open until user ends session
 window.mainloop()
 ```
+
+
+The pack() fuction is used to fill the entire window
